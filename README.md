@@ -1,2 +1,2 @@
 # Shiba-Tatsuya
-Resource of shiba tatsuya discord bot
+Shiba tatsuya for now is closed resources code
